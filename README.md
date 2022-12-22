@@ -78,7 +78,7 @@
 
 ### Windows Installation,
 
-Download , [![](https://git-scm.com/favicon.ico)Git](https://git-scm.com/)
+Download , [Git](https://git-scm.com/)
 
 #### Access on Git Bash
 
