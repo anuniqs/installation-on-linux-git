@@ -29,6 +29,8 @@
 
 `[root@c7-54-git ~]# yum install gettext-devel openssl-devel perl-CPAN perl-devel zlib-devel`
 
+`anup@u22-128-YT-MACHINE:~$ sudo apt-get install libz-dev libssl-dev libcurl4-gnutls-dev libexpat1-dev gettext cmake gcc`
+
 `[root@c7-54-git ~]# wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.9.5.tar.gz`
 
 `[root@c7-54-git ~]# tar -xvzf git-2.9.5.tar.gz`
